@@ -38,7 +38,6 @@ body {
 }
 
 .wrapper-calc>div{
-    /* padding: 15px 25px; */
     width: 5rem;
     height: 6rem;
     display: flex;
